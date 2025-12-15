@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nuestras agencias</title>
+  <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Nuestras agencias</h1>
+  <p>Encuentra la agencia más cercana y obtén indicaciones para llegar fácilmente.</p>
+</header>
+
+<div id="map"></div>
+
+<!-- Modal -->
+<div class="modal" id="agencyModal">
+  <div class="modal-content" id="modalContent">
+    <h2 id="agencyName"></h2>
+    <p id="agencyAddress"></p>
+    <p id="agencySchedule"></p>
+    <button class="btn-close" id="closeBtn">Cerrar</button>
+    <button class="btn-directions" id="directionsBtn">Cómo llegar</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCoQV3YMhEFdMw7lrKAMIQ2DWPqLRp6ZZg&callback=initMap" async defer></script>
+
+</body>
+</html>
