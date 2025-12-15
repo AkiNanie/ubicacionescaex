@@ -1,0 +1,324 @@
+[
+  {
+    "name": "AGENCIA ANILLO PERIFERICO",
+    "address": "Col. Loarque antiguas bodegas de Unilever a la par Centro cristiano Renovacion, Frente a Parque Empresarial Periférico, Entrada a International School y La Pepsi",
+    "schedule": "Lunes a viernes 07:00:00 – 19:00:00 | Sábado hasta 14:00:00",
+    "lat": 14.047289,
+    "lng": -87.19795
+  },
+  {
+    "name": "AGENCIA BOULEVAR MORAZÁN",
+    "address": "Boulevard Morazán, Tegucigalpa. Edificio San Carlos ",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 14.1000905,
+    "lng": -87.1933643
+  },
+  {
+    "name": "AGENCIA CATACAMAS",
+    "address": "120 metros al sur de Bco Atlantida, del centro plaza criolla, frente a Lolas Carwasch. Catacamas.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.8526112,
+    "lng": -85.9151165
+  },
+  {
+    "name": "AGENCIA CHOLOMA",
+    "address": "Plaza Yanez, autopista a Puerto cortes",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.611256,
+    "lng": -87.9562553
+  },
+  {
+    "name": "AGENCIA CHOLUTECA CENTRO",
+    "address": "Bo. El Centro, media cuadra al norte de Floristería Jisselle, a mano derecha locales blancos, frente a INDIMA",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 0.5416666666666666,
+    "lng": -87.1928511
+  },
+  {
+    "name": "AGENCIA CHOLUTECA GRAN TERMINAL PACIFICO",
+    "address": "Balcanes; Parque Industrial Pacifico, Choluteca, Honduras",
+    "schedule": "Lunes a viernes 08:00:00 – 5:00 p.m | Sábado hasta 12:00:00",
+    "lat": 13.2941502,
+    "lng": -87.1538684
+  },
+  {
+    "name": "AGENCIA CIRCUNVALACIÓN (Plaza Sarita)",
+    "address": "Bay Plaza, frente a autobanco de Bac Credomatic, Ave Circunvalacion, 6 calle 17 y 18 ave",
+    "schedule": "Lunes a viernes 07:00:00 – 7:00 p.m | Sábado hasta 14:00:00",
+    "lat": 15.5030192386089,
+    "lng": -88.0382489171651
+  },
+  {
+    "name": "AGENCIA CITY LIGHT",
+    "address": "Bo. Guamilito 3ave. 5 - 6 calle, N.O. , San Pedro Sula, Hondura",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.50914,
+    "lng": -88.02387
+  },
+  {
+    "name": "AGENCIA CIUDAD NUEVA",
+    "address": "Calle de Los Alcaldes, Plaza Ciudad Nueva II etapa Local #15 contiguo a Wild Wings",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.06129,
+    "lng": -87.23417
+  },
+  {
+    "name": "AGENCIA COMAYAGUA",
+    "address": "De rotonda de la Mundial carretera a TGU, sigue hasta la 2da rotonda. Hace el retorno, entre Nippon Auto y Repuestos Acquaroni",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 14.4384468958523,
+    "lng": -87.6343342477689
+  },
+  {
+    "name": "AGENCIA COMAYAGUELA",
+    "address": "Bo. Concepción entre 9 y 10 calle, 6 y 7 avenida, desvío frente a la Cooperativa Fraternidad, Comayagüela.",
+    "schedule": "Lunes a viernes 08:00:00 – 5:00 p.m | Sábado hasta 12:00:00",
+    "lat": 14.0958699248364,
+    "lng": -87.2107054139225
+  },
+  {
+    "name": "AGENCIA DANLÍ",
+    "address": "Calle hacia El Paraiso, por el Instituto Cosme Garcia,  Bodega #3, Danli",
+    "schedule": "Lunes a viernes 07:00:00 – 5:00 p.m | Sábado hasta 13:00:00",
+    "lat": 14.022241,
+    "lng": -86.5698692
+  },
+  {
+    "name": "AGENCIA PROGRESO",
+    "address": "B° Las Delicias, 1 Avenida, entre 3 y 4 calle, plaza Santa Inés.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.399451,
+    "lng": -87.809662
+  },
+  {
+    "name": "AGENCIA ENTRADA A COPAN",
+    "address": "Carretera Internacional Salida a Copán Ruinas, segunda segunda entrada a la Col. Vanesa, a la par de Bodega Peña y frente a Super Mercado 5.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.0617786264167,
+    "lng": -88.7565177032818
+  },
+  {
+    "name": "AGENCIA JUTICALPA",
+    "address": " Bo. El centro, una cuadra al norte de Parque Flores, contiguo a Wolosny. Juticalpa.",
+    "schedule": "Lunes a viernes 08:00:00 – 5:00 p.m | Sábado hasta 13:00:00",
+    "lat": 14.6723495362211,
+    "lng": -86.2195134744172
+  },
+  {
+    "name": "AGENCIA LA CEIBA",
+    "address": "Bo. La Merced Avenida san isidro frente de llantilandia, La Ceiba, Atlàntida.",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 15.7764051937255,
+    "lng": -86.7866354576709
+  },
+  {
+    "name": "AGENCIA LA ESPERANZA",
+    "address": "Barrio Eramaní avenida general Vasquez, contiguo a Hotel la Esperanza, municipio la Esperanza, Intibuca",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.8671368398199,
+    "lng": -91.5693223189251
+  },
+  {
+    "name": "AGENCIA LA PAZ",
+    "address": "Carretera a Marcala, Barrio la Merced a la par de Ferretería Inversiones Bonilla Sorto # 2, Contiguo a antiguo Local de Ministerio Publico, 100 metros de la picota. La Paz",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.3191834971534,
+    "lng": -87.6734122134935
+  },
+  {
+    "name": "AGENCIA LOS OLIVOS",
+    "address": "Centro Comercial Los Olivos Planta baja local 6 Boulevard  del este",
+    "schedule": "Lunes a viernes 08:00:00 – 7:00 p.m | Sábado hasta 13:00:00",
+    "lat": 15.5032038925908,
+    "lng": -88.0072631865064
+  },
+  {
+    "name": "AGENCIA MALL GALERíAS",
+    "address": "Plaza Samara, Local #2 Col. Universidad, Boulevard hacia la UNAH, frente a Mall Galerías del Valle, San Pedro Sula",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 15.5301570024944,
+    "lng": -88.027684
+  },
+  {
+    "name": "AGENCIA MARCALA",
+    "address": "Barrio san miguel, frente al instituto de la propiedad y el ministerio publico.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.1550376648302,
+    "lng": -88.0338194711645
+  },
+  {
+    "name": "AGENCIA MORAZAN YORO",
+    "address": "Bo Escolar 2 Calle frente a Carwash y Lubricentro Handal",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.3205333940836,
+    "lng": -87.5986114999999
+  },
+  {
+    "name": "AGENCIA NACAOME",
+    "address": "Atrás de la iglesia catolina, esquina opuesta de bco davivienda, contiguo a clinica Izaguirre. Nacaome.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 13.5309596633657,
+    "lng": -87.4868699402971
+  },
+  {
+    "name": "AGENCIA OCOTEPEQUE",
+    "address": "Barrio las flores frente a carretera internacional local N°4, 1/2 adelante del parque central",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.4335164748931,
+    "lng": -89.182688
+  },
+  {
+    "name": "AGENCIA OLANCHITO",
+    "address": "Olanchito, Barrio el Centro, frente a Hotel Olanchito contiguo a laboratorio  Mendez",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.485048,
+    "lng": -86.5674767
+  },
+  {
+    "name": "AGENCIA PEÑA BLANCA",
+    "address": "Mini Super La Familia #2, barrio 25 de mayo, carretera hacia Rio Lindo, peña blanca, Cortés",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.9719572924498,
+    "lng": -88.0288485153419
+  },
+  {
+    "name": "AGENCIA PLAZA MARIE",
+    "address": "Colonia Florencia Norte en Plaza Marie, Frente a Pricesmart, contiguo a Multiplaza",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.0869470452248,
+    "lng": -87.1847651609511
+  },
+  {
+    "name": "AGENCIA PLAZA DEL ESTE",
+    "address": "Ofibodegas Calpules Bodega 4 y 5, Sector Calpules San Pedro Sula. 1 cuadra antes de Zip Calpules, Salida a La Lima.",
+    "schedule": "Lunes a viernes 07:00:00 – 19:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.4685235546629,
+    "lng": -87.9620922011099
+  },
+  {
+    "name": "AGENCIA POLVORIN",
+    "address": "Ofibodegas Calpules Bodega 4 y 5, Sector Calpules San Pedro Sula. 1 cuadra antes de Zip Calpules, Salida a La Lima.",
+    "schedule": "Lunes a viernes 09:00:00 – 18:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.4668833750687,
+    "lng": -87.9626741958679
+  },
+  {
+    "name": "AGENCIA PUERTO CORTÉS",
+    "address": "Puerto Cortes, 2da avenida, entre 4 y 5 calle, frente al parque",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.8448707602719,
+    "lng": -87.9436445576709
+  },
+  {
+    "name": "AGENCIA ROATAN",
+    "address": "Coxen Hole, calle principal, contiguo al Hotel Cay View, en plaza Abbott, local # 4, Roatán.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 16.3138510848862,
+    "lng": -86.5374429143603
+  },
+  {
+    "name": "AGENCIA SAN LORENZO",
+    "address": "Barrio la cruz, frente a las oficinas de agrolivano. San Lorenzo.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 13.4262883558648,
+    "lng": -87.446859758087
+  },
+  {
+    "name": "AGENCIA SAN MARCOS DE COLON",
+    "address": "Barrio Cafetal frente a Gasolinera Fraternidad, Calle Panamericana.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 13.4349415273346,
+    "lng": -86.8093412473048
+  },
+  {
+    "name": "AGENCIA SANTA BARBARA",
+    "address": "Colonia Alfonso XIII, cuadra y media al sur del parque central",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.9196654623049,
+    "lng": -88.2371563288357
+  },
+  {
+    "name": "AGENCIA SANTA MÓNICA",
+    "address": "Boulevard hacia Puerto Cortès, Al costado de Cervecerìa Hondureña, centro comercial Santa Monica San Pedro Sula, Cortès",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 15.5225352065322,
+    "lng": -88.0239572134928
+  },
+  {
+    "name": "AGENCIA SANTA ROSA DE COPÁN",
+    "address": "2 cuadras arriba de Ashonplafa, atras de taller electrico Lara a unos pasos de blvd. Jorge Bueso Arias",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.7733411767198,
+    "lng": -88.7754467073997
+  },
+  {
+    "name": "AGENCIA SIGUATEPEQUE",
+    "address": "Barrio el centro media cuadra arriba del parque central, media cuadra arriba de regalos ivonne",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 14.5959078216418,
+    "lng": -87.8269944637645
+  },
+  {
+    "name": "AGENCIA SUYAPA",
+    "address": "Plaza Santa Mónica del Boulevard Suyapa, Tegucigalpa.",
+    "schedule": "Lunes a viernes 08:00:00 – 6:00 p.m | Sábado hasta 13:00:00",
+    "lat": 14.0825775834765,
+    "lng": -87.1665436010106
+  },
+  {
+    "name": "AGENCIA TALANGA",
+    "address": "Plaza comercial Villa san Diego, barrio el centro, contiguo a floristeria Josuany a farmacia shadai, calle principal.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.4012884887556,
+    "lng": -87.0823536134928
+  },
+  {
+    "name": "AGENCIA TELA",
+    "address": "Ba.San Antonio plaza San Antonio avenida Subirana fte a iglesia los mormones local 4",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.7798852279246,
+    "lng": -87.4517287846571
+  },
+  {
+    "name": "AGENCIA TERMINAL SPS",
+    "address": "Boulevard del Sur, frente al plantel La Puerta (ENEE), San Pedro Sula, Cortés",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.4709812119203,
+    "lng": -88.0325957269857
+  },
+  {
+    "name": "AGENCIA TOCOA",
+    "address": "Barrio El Centro, Avenida Efrain Soto, por primera entrada a la Ciudad de Tocoa, a 50 mts de la carretera CA-13, al par de Bodegas de Bimbo, lado derecho frente a pizza hut # 2",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.6526218925495,
+    "lng": -86.0067147933643
+  },
+  {
+    "name": "AGENCIA TROJES",
+    "address": "Barrio el centro, una cuadra abajo de la policia nacional, esquina opuesta a Hotel Don Pedro, Contigua a Ferreteria la nueva.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.0816688564488,
+    "lng": -85.9985053575946
+  },
+  {
+    "name": "AGENCIA TRUJILLO",
+    "address": "Barrio el conventio frente a antiguo cine ba",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.9187496068572,
+    "lng": -85.9550613423285
+  },
+  {
+    "name": "AGENCIA VILLA NUEVA",
+    "address": "Colonia la victoria estacionamiento de supermercado el éxito #2, carretera san manuel",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 15.319480898018,
+    "lng": -87.9815905220684
+  },
+  {
+    "name": "AGENCIA ALVAREZ",
+    "address": "Mercado Alvarez, a la par de oficina del mercado, Comayaguela.",
+    "schedule": "Lunes a viernes 08:00:00 – 17:00:00 | Sábado hasta 12:00 m.",
+    "lat": 14.1034423069307,
+    "lng": -87.2081908539255
+  }
+]
